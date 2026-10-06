@@ -5,7 +5,7 @@ Hey, I'm Falguni Yadav 👋<br>
 
 I’m a Computer Science postgraduate passionate about Machine Learning, Deep Learning, Data Science, and Software Development. I enjoy building practical solutions and exploring how technology can solve real-world problems.<br>
 
-🧠 What I’m Interested In :-
+🧠 What I’m Interested In :-<br>
 🤖 Machine Learning & Deep Learning<br>
 📊 Data Science & Data Analytics<br>
 🕸️ Graph Theory & Graph-based Learning<br>
@@ -14,7 +14,7 @@ I’m a Computer Science postgraduate passionate about Machine Learning, Deep Le
 🧩 Data Structures & Algorithms<br>
 🎨 UI/UX Design<br>
 
-🛠️ Tech Stack :-
+🛠️ Tech Stack :-<br>
 Python · C · C++ · Java<br>
 Machine Learning · Pandas · NumPy · Scikit-learn<br>
 HTML · CSS · JavaScript · React.js · Node.js · Express.js<br>
@@ -23,15 +23,12 @@ Git · GitHub · Postman · VS Code<br>
 Figma · Canva<br>
 
 🌱 Currently Exploring<br>
-
 Deep Learning · Machine Learning · Data Science · Graph Theory · Emerging Technologies<br>
 
 🤝 Beyond Code<br>
-
 As a Class Representative, I’ve developed skills in communication, leadership, coordination, teamwork, and organization. I enjoy collaborating with others, taking on new challenges, and continuously learning.<br>
 
 ⚡ My Approach<br>
-
 Learn → Build → Explore → Improve 🚀
 
 
