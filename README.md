@@ -1,9 +1,9 @@
 # 💫 About Me:
 Hey, I'm Falguni Yadav 👋<br><br>
 
-🎓 M.Tech Computer Science Student | 💻 Developer | 🤖 ML Enthusiast<br><br>
+🎓 M.Tech Computer Science Student | 💻 Developer | 🤖 ML Enthusiast<br>
 
-I’m a Computer Science postgraduate passionate about Machine Learning, Deep Learning, Data Science, and Software Development. I enjoy building practical solutions and exploring how technology can solve real-world problems.<br><br>
+I’m a Computer Science postgraduate passionate about Machine Learning, Deep Learning, Data Science, and Software Development. I enjoy building practical solutions and exploring how technology can solve real-world problems.<br>
 
 🧠 What I’m Interested In<br><br>
 
