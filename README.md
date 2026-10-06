@@ -13,7 +13,7 @@ I’m a Computer Science postgraduate passionate about Machine Learning, Deep Le
 💻 Programming & Software Development<br>
 🌐 Web Development<br>
 🧩 Data Structures & Algorithms<br>
-🎨 UI/UX Design<br><br>
+🎨 UI/UX Design<br>
 
 🛠️ Tech Stack<br>
 
@@ -22,15 +22,15 @@ Machine Learning · Pandas · NumPy · Scikit-learn<br>
 HTML · CSS · JavaScript · React.js · Node.js · Express.js<br>
 SQL · MySQL · MongoDB<br>
 Git · GitHub · Postman · VS Code<br>
-Figma · Canva<br><br>
+Figma · Canva<br>
 
 🌱 Currently Exploring<br>
 
-Deep Learning · Machine Learning · Data Science · Graph Theory · Emerging Technologies<br><br>
+Deep Learning · Machine Learning · Data Science · Graph Theory · Emerging Technologies<br>
 
 🤝 Beyond Code<br>
 
-As a Class Representative, I’ve developed skills in communication, leadership, coordination, teamwork, and organization. I enjoy collaborating with others, taking on new challenges, and continuously learning.<br><br>
+As a Class Representative, I’ve developed skills in communication, leadership, coordination, teamwork, and organization. I enjoy collaborating with others, taking on new challenges, and continuously learning.<br>
 
 ⚡ My Approach<br>
 
